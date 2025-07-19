@@ -1,0 +1,78 @@
+{
+  "header": {
+    "nav": {
+      "home": "หน้าแรก",
+      "about": "เกี่ยวกับ",
+      "skills": "ทักษะ",
+      "experience": "ประสบการณ์",
+      "projects": "โปรเจกต์",
+      "contact": "ติดต่อ"
+    }
+  },
+  "hero": {
+    "greeting": "สวัสดี ฉันชื่อดรัลพร!",
+    "name": "ดรัลพร สันติสวัสดิวงศ์",
+    "callMe": "(เรียกฉันว่า มิ้นท์)",
+    "role": "นักพัฒนา Frontend",
+    "description": "ฉันสร้างเว็บไซต์สไตล์เรโทรที่สวยงามและทันสมัย",
+    "exploreProjects": "ดูโปรเจกต์ของฉัน",
+    "downloadResume": "ดาวน์โหลดเรซูเม่"
+  },
+  "about": {
+    "title": "เกี่ยวกับฉัน",
+    "passionate_title": "หลงใหลในการสร้างเว็บแอปสวยงาม ขับเคลื่อนด้วยข้อมูล",
+    "passionate_content": "สวัสดี! ฉันชื่อมิ้นท์ เป็นนักพัฒนา frontend ที่มีประสบการณ์มากกว่า 7 ปี เชี่ยวชาญการสร้าง dashboard และเว็บแอปพลิเคชันที่เน้นข้อมูล โฟกัสที่ UI ที่สะอาด ประสบการณ์ผู้ใช้ที่ดี และการเชื่อมต่อ backend อย่างไร้รอยต่อ ใช้ React, Redux, Vuex และเทคโนโลยีเว็บสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ ๆ และกำลังขยายทักษะด้าน backend และ mobile",
+    "passionate_content_2": "ฉันชอบทำงานร่วมกับทีม แก้ปัญหาท้าทาย และส่งมอบโปรเจกต์ที่สร้างผลกระทบจริง มาร่วมสร้างสิ่งที่ยอดเยี่ยมไปด้วยกัน!",
+    "content": "ฉันเป็นนักพัฒนาที่หลงใหลในสไตล์ยุค 90/2000s และเทคโนโลยีเว็บสมัยใหม่"
+  },
+  "skills": {
+    "title": "ทักษะ & เทคโนโลยี",
+    "description": "เครื่องมือและเฟรมเวิร์กที่ฉันชื่นชอบสำหรับสร้างเว็บแอปสมัยใหม่",
+    "techStackTitle": "เทคโนโลยีที่ใช้",
+    "currentlyLearningTitle": "กำลังเรียนรู้",
+    "learningBadge": "กำลังเรียนรู้",
+    "currentlyLearning": "กำลังเรียนรู้",
+    "list": ["React", "TypeScript", "Tailwind CSS", "JavaScript", "HTML/CSS"]
+  },
+  "experience": {
+    "title": "ประสบการณ์",
+    "employed": "ทำงานอยู่",
+    "frontendDeveloper": "นักพัฒนา Frontend",
+    "exploring": "สำรวจสาย mobile/data analyst",
+    "education": "การศึกษา",
+    "companies": [
+      {"name": "บริษัท A", "role": "นักพัฒนา Frontend", "period": "2022 - ปัจจุบัน"},
+      {"name": "บริษัท B", "role": "นักออกแบบเว็บไซต์", "period": "2020 - 2022"}
+    ]
+  },
+  "projects": {
+    "title": "โปรเจกต์",
+    "list": [
+      {"name": "Retro Portfolio", "desc": "พอร์ตโฟลิโอส่วนตัวสไตล์เว็บเรโทร"},
+      {"name": "Pixel Art Gallery", "desc": "แกลเลอรี่งานศิลปะพิกเซล"}
+    ]
+  },
+  "contact": {
+    "title": "ติดต่อ",
+    "description": "ติดต่อเพื่อร่วมงาน ฟรีแลนซ์ หรือทักทายได้เลย!",
+    "email": "อีเมล",
+    "info": {"title": "ข้อมูลติดต่อ"},
+    "form": {
+      "title": "ส่งข้อความ",
+      "name": "ชื่อ-นามสกุล *",
+      "email": "อีเมล *",
+      "projectType": "เลือกประเภทโปรเจกต์ *",
+      "projectType.webApp": "พัฒนาเว็บแอปพลิเคชัน",
+      "projectType.website": "พัฒนาเว็บไซต์",
+      "projectType.optimization": "ปรับปรุงประสิทธิภาพ",
+      "projectType.consultation": "ให้คำปรึกษาทางเทคนิค",
+      "projectType.maintenance": "ดูแลและซัพพอร์ต",
+      "projectType.other": "อื่น ๆ",
+      "message": "รายละเอียดโปรเจกต์ *",
+      "send": "ส่งโปรเจกต์"
+    }
+  },
+  "footer": {
+    "text": "© 2024 ดรัลพร สงวนลิขสิทธิ์ทั้งหมด"
+  }
+} 

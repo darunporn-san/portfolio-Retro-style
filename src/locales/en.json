@@ -1,0 +1,78 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "experience": "Experience",
+      "projects": "Projects",
+      "contact": "Contact"
+    }
+  },
+  "hero": {
+    "greeting": "Hi, I'm Darunporn!",
+    "name": "Darunporn Santisawaddiwong",
+    "callMe": "(call me Mint)",
+    "role": "Frontend Developer",
+    "description": "I build beautiful, retro-inspired web experiences.",
+    "exploreProjects": "Explore My Projects",
+    "downloadResume": "Download Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "passionate_title": "Passionate About Building Beautiful, Data-Driven Web Apps",
+    "passionate_content": "Hi! I’m Mint, a frontend developer with 7+ years of experience. I specialize in building dashboards and data-driven web applications, focusing on clean UI, smooth user experience, and seamless backend integration. My toolkit includes React, Redux, Vuex, and modern web technologies. I love learning and am currently expanding my skills in backend and mobile development.",
+    "passionate_content_2": "I enjoy collaborating with teams, solving complex problems, and delivering projects that make a real impact. Let’s build something amazing together!",
+    "content": "I'm a passionate developer with a love for 90s/2000s aesthetics and modern web tech."
+  },
+  "skills": {
+    "title": "Skills & Tech Stack",
+    "description": "My favorite tools and frameworks for building modern web apps.",
+    "techStackTitle": "Tech Stack",
+    "currentlyLearningTitle": "Currently Learning",
+    "learningBadge": "Learning",
+    "currentlyLearning": "Currently Learning",
+    "list": ["React", "TypeScript", "Tailwind CSS", "JavaScript", "HTML/CSS"]
+  },
+  "experience": {
+    "title": "Experience",
+    "employed": "Employed",
+    "frontendDeveloper": "Frontend Developer",
+    "exploring": "exploring mobile/data analyst",
+    "education": "Education",
+    "companies": [
+      {"name": "Company A", "role": "Frontend Developer", "period": "2022 - Present"},
+      {"name": "Company B", "role": "Web Designer", "period": "2020 - 2022"}
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "list": [
+      {"name": "Retro Portfolio", "desc": "A personal portfolio with a retro web style."},
+      {"name": "Pixel Art Gallery", "desc": "A showcase of pixel art projects."}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch for collaboration, freelance, or just to say hi!",
+    "email": "Email",
+    "info": {"title": "Contact Info"},
+    "form": {
+      "title": "Send a Message",
+      "name": "Full Name *",
+      "email": "Email Address *",
+      "projectType": "Select project type *",
+      "projectType.webApp": "Web Application Development",
+      "projectType.website": "Website Development",
+      "projectType.optimization": "Performance Optimization",
+      "projectType.consultation": "Technical Consultation",
+      "projectType.maintenance": "Maintenance & Support",
+      "projectType.other": "Other",
+      "message": "Project Details *",
+      "send": "Send Project Inquiry"
+    }
+  },
+  "footer": {
+    "text": "© 2024 Darunporn. All rights reserved."
+  }
+} 
